@@ -4,7 +4,7 @@
  Consiste no preenchimento de 2 campos, idade e sexo. Ao clicar em verificar, aparecerá a idade da pessoa e uma foto que corresponda a faixa etária correspondente
  a idade preenchida.
 ***
-Em uma nova guia acesse o link para abrir o site: [Contador de idade]()
+Em uma nova guia acesse o link para abrir o site: [Contador de idade](https://rick-1994-itac.github.io/Contador-de-Idade/)
 ***
  ### O CÓDIGO ⚙️
 
